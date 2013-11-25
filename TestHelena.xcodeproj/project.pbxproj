@@ -22,6 +22,7 @@
 		3698CB4C18433FB800BDF0A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3698CB2B18433FB800BDF0A8 /* UIKit.framework */; };
 		3698CB5418433FB800BDF0A8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3698CB5218433FB800BDF0A8 /* InfoPlist.strings */; };
 		3698CB5618433FB800BDF0A8 /* TestHelenaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3698CB5518433FB800BDF0A8 /* TestHelenaTests.m */; };
+		3698CB611843403E00BDF0A8 /* ddjkfjTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 3698CB601843403E00BDF0A8 /* ddjkfjTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		3698CB5118433FB800BDF0A8 /* TestHelenaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestHelenaTests-Info.plist"; sourceTree = "<group>"; };
 		3698CB5318433FB800BDF0A8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3698CB5518433FB800BDF0A8 /* TestHelenaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestHelenaTests.m; sourceTree = "<group>"; };
+		3698CB5F1843403E00BDF0A8 /* ddjkfjTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ddjkfjTest.h; sourceTree = "<group>"; };
+		3698CB601843403E00BDF0A8 /* ddjkfjTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ddjkfjTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				3698CB3C18433FB800BDF0A8 /* Main_iPad.storyboard */,
 				3698CB3F18433FB800BDF0A8 /* ViewController.h */,
 				3698CB4018433FB800BDF0A8 /* ViewController.m */,
+				3698CB5F1843403E00BDF0A8 /* ddjkfjTest.h */,
+				3698CB601843403E00BDF0A8 /* ddjkfjTest.m */,
 				3698CB4218433FB800BDF0A8 /* Images.xcassets */,
 				3698CB2E18433FB800BDF0A8 /* Supporting Files */,
 			);
@@ -253,6 +258,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3698CB611843403E00BDF0A8 /* ddjkfjTest.m in Sources */,
 				3698CB4118433FB800BDF0A8 /* ViewController.m in Sources */,
 				3698CB3818433FB800BDF0A8 /* AppDelegate.m in Sources */,
 				3698CB3418433FB800BDF0A8 /* main.m in Sources */,
